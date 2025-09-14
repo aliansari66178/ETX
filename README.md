@@ -1,6 +1,6 @@
 # ETX
-<img src="etx_logo.png" style="width:200px;height:200px">
-اصلاح تراز خسوف
+<img src="etx_logo.png" style="width:300px;height:300px">
+🌕 اصلاح تراز خسوف
 
 
 
